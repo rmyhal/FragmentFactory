@@ -1,0 +1,2 @@
+rootProject.name='FragmentFactoryExample'
+include ':app'
